@@ -1,6 +1,6 @@
 Package: geneLenDataBase
 Title: Lengths of mRNA transcripts for a number of genomes
-Version: 1.49.1
+Version: 1.50.0
 Date: 2026-09-30
 Authors@R: 
     c(
